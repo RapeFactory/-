@@ -1,0 +1,17 @@
+BoldAsFont=-1
+Transparency=low
+FontHeight=10
+Font=Fira Code Retina
+OpaqueWhenFocused=no
+Columns=117
+Rows=67
+Term=xterm
+ThemeFile=xterm
+FontWeight=450
+FontIsBold=no
+FontSmoothing=default
+ForegroundColour=214,214,214
+CursorType=underscore
+AllowBlinking=yes
+ClicksPlaceCursor=yes
+Language=@

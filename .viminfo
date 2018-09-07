@@ -1,0 +1,543 @@
+# Этот файл viminfo автоматически создан Vim 8.1.
+# Его можно (осторожно!) редактировать.
+
+# Viminfo version
+|1,4
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Последний Шаблон поиска:
+~MSle0/ошшшибка
+
+# Последний Замена Шаблон поиска:
+~MSle0~&уводю
+
+# Последняя строка для замены:
+$увожу
+
+# Командная строка, история (начиная от свежего к старому):
+:q!
+|2,0,1534150684,,"q!"
+:q
+|2,0,1532358276,,"q"
+:!q
+|2,0,1532358264,,"!q"
+:wq
+|2,0,1532358104,,"wq"
+:qq
+|2,0,1532345799,,"qq"
+:w
+|2,0,1532344856,,"w"
+:!git show
+|2,0,1532344838,,"!git show"
+:!gh
+|2,0,1532344825,,"!gh"
+:!ls
+|2,0,1532344809,,"!ls"
+:s/уводю/увожу/g
+|2,0,1532344746,,"s/уводю/увожу/g"
+:qw
+|2,0,1532341147,,"qw"
+:tutor.ru
+|2,0,1532341111,,"tutor.ru"
+:tutor
+|2,0,1532341041,,"tutor"
+:vimtutor
+|2,0,1532341017,,"vimtutor"
+:tuturial
+|2,0,1532340937,,"tuturial"
+:s/¿¿¿¿¿/¿�
+|2,0,1514368216,,"s/¿¿¿¿¿/¿�"
+:wq!
+|2,0,1514363899,,"wq!"
+:quit
+|2,0,1513692068,,"quit"
+:quot
+|2,0,1513691628,,"quot"
+:exit
+|2,0,1510305579,,"exit"
+:quit!
+|2,0,1510305518,,"quit!"
+:ws
+|2,0,1510234800,,"ws"
+
+# Строка поиска, история (начиная от свежего к старому):
+? уводю
+|2,1,1532344746,,"уводю"
+?/ошшшибка
+|2,1,1532344595,47,"ошшшибка"
+? ¿¿¿
+|2,1,1514368216,,"¿¿¿"
+? ¿¿¿¿�
+|2,1,1514368034,,"¿¿¿¿�"
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка отладки, история (начиная от свежего к старому):
+
+# Регистры:
+"0	CHAR	0
+	 Этот элемент п
+|3,0,0,0,1,0,1532345700," Этот элемент п"
+""1	LINE	0
+	  if ((elm.a1 % 90).round(1) && (elm.a2 % rr0).round(1)) {
+|3,1,1,1,1,0,1534150662,"  if ((elm.a1 % 90).round(1) && (elm.a2 % rr0).round(1)) {"
+"2	LINE	0
+	---> а) Мой дядя самых честных правил
+|3,0,2,1,1,0,1532343273,"---> а) Мой дядя самых честных правил"
+"3	LINE	0
+	---> а) Мой дядя самых честных правил
+|3,0,3,1,1,0,1532343271,"---> а) Мой дядя самых честных правил"
+"4	LINE	0
+	---> а) Мой дядя самых честных правил
+|3,0,4,1,1,0,1532343267,"---> а) Мой дядя самых честных правил"
+"5	LINE	0
+	---> а) Мой дядя самых честных правил
+|3,0,5,1,1,0,1532343252,"---> а) Мой дядя самых честных правил"
+"6	LINE	0
+	---> г) И лучше выдумать не мог.
+|3,0,6,1,1,0,1532343234,"---> г) И лучше выдумать не мог."
+"7	LINE	0
+	--->  4)  Печально я гляжу на наше поколение!
+	--->  5)  Его грядущее иль пусто иль темно...
+|3,0,7,1,2,0,1532342985,"--->  4)  Печально я гляжу на наше поколение!","--->  5)  Его грядущее иль пусто иль темно..."
+"8	LINE	0
+	--->  2)  О, как внезапно кончился диван!
+|3,0,8,1,1,0,1532342967,"--->  2)  О, как внезапно кончился диван!"
+"9	LINE	0
+	---> ¿ ¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿ ¿¿ ¿ ¿¿¿¿¿¿¿ `¿¿¿¿¿¿'.
+|3,0,9,1,1,0,1514364872,"---> ¿ ¿¿¿¿¿¿ ¿ ¿¿¿¿¿¿¿ ¿¿ ¿ ¿¿¿¿¿¿¿ `¿¿¿¿¿¿'."
+"u	CHAR	0
+	tkb
+|3,0,30,0,1,0,1513690383,"tkb"
+"-	CHAR	0
+	п
+|3,0,36,0,1,0,1532345752,"п"
+
+# Глобальные отметки:
+'0  17  42  ~/Projects/Forms/InsertsError/obliqueAngle.js
+|4,48,17,42,1534150684,"~/Projects/Forms/InsertsError/obliqueAngle.js"
+'1  21  34  ~/Projects/windowbuilder/.git/config
+|4,49,21,34,1532358284,"~/Projects/windowbuilder/.git/config"
+'2  14  17  ~/Projects/windowbuilder/.git/config
+|4,50,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+'3  14  17  ~/Projects/windowbuilder/.git/config
+|4,51,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+'4  1005  0  /tmp/tutorluEExI
+|4,52,1005,0,1532345823,"/tmp/tutorluEExI"
+'5  174  0  /tmp/tutorXryytY
+|4,53,174,0,1532342229,"/tmp/tutorXryytY"
+'6  1  0  ~/Projects/windowbuilder/tutor
+|4,54,1,0,1532342086,"~/Projects/windowbuilder/tutor"
+'7  173  0  /tmp/tutorOCxDDa
+|4,55,173,0,1532342066,"/tmp/tutorOCxDDa"
+'8  100  0  /tmp/tutorRUM7ob
+|4,56,100,0,1532341394,"/tmp/tutorRUM7ob"
+'9  65  5  /tmp/tutorWDPORT
+|4,57,65,5,1532341266,"/tmp/tutorWDPORT"
+
+# Список прыжков (сначала более свежие):
+-'  17  42  ~/Projects/Forms/InsertsError/obliqueAngle.js
+|4,39,17,42,1534150684,"~/Projects/Forms/InsertsError/obliqueAngle.js"
+-'  18  4  ~/Projects/Forms/InsertsError/obliqueAngle.js
+|4,39,18,4,1534150669,"~/Projects/Forms/InsertsError/obliqueAngle.js"
+-'  1  0  ~/Projects/Forms/InsertsError/obliqueAngle.js
+|4,39,1,0,1534150606,"~/Projects/Forms/InsertsError/obliqueAngle.js"
+-'  21  34  ~/Projects/windowbuilder/.git/config
+|4,39,21,34,1532358284,"~/Projects/windowbuilder/.git/config"
+-'  21  34  ~/Projects/windowbuilder/.git/config
+|4,39,21,34,1532358284,"~/Projects/windowbuilder/.git/config"
+-'  21  34  ~/Projects/windowbuilder/.git/config
+|4,39,21,34,1532358284,"~/Projects/windowbuilder/.git/config"
+-'  21  34  ~/Projects/windowbuilder/.git/config
+|4,39,21,34,1532358284,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358155,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358155,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358155,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358155,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+-'  14  17  ~/Projects/windowbuilder/.git/config
+|4,39,14,17,1532358104,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1  0  ~/Projects/windowbuilder/.git/config
+|4,39,1,0,1532358028,"~/Projects/windowbuilder/.git/config"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  1005  0  /tmp/tutorluEExI
+|4,39,1005,0,1532345823,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  575  8  /tmp/tutorluEExI
+|4,39,575,8,1532344746,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  556  94  /tmp/tutorluEExI
+|4,39,556,94,1532344686,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  537  6  /tmp/tutorluEExI
+|4,39,537,6,1532344632,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+-'  524  36  /tmp/tutorluEExI
+|4,39,524,36,1532344631,"/tmp/tutorluEExI"
+
+# История местных отметок (от более свежих к старым):
+
+> ~/Projects/Forms/InsertsError/obliqueAngle.js
+	*	1534150672	0
+	"	17	42
+	.	17	0
+	+	18	0
+	+	17	0
+
+> ~/Projects/windowbuilder/.git/config
+	*	1532358276	0
+	"	21	34
+	^	6	15
+	.	6	12
+	+	14	17
+	+	6	12
+
+> /tmp/tutorluEExI
+	*	1532345817	0
+	"	1005	0
+	^	823	47
+	.	823	46
+	+	216	68
+	+	235	83
+	+	280	87
+	+	303	39
+	+	323	0
+	+	324	0
+	+	351	98
+	+	351	100
+	+	395	0
+	+	399	0
+	+	401	0
+	+	400	0
+	+	401	0
+	+	398	0
+	+	417	109
+	+	442	101
+	+	468	92
+	+	575	0
+	+	748	18
+	+	753	21
+	+	776	105
+	+	799	48
+	+	823	46
+
+> /tmp/tutorXryytY
+	*	1532342216	0
+	"	174	0
+	^	141	71
+	.	141	70
+	+	94	65
+	+	117	40
+	+	139	87
+	+	141	70
+
+> ~/Projects/windowbuilder/tutor
+	*	1532342083	0
+	"	1	0
+
+> /tmp/tutorOCxDDa
+	*	1532342008	0
+	"	173	0
+	^	141	71
+	.	141	71
+	+	94	65
+	+	117	87
+	+	139	87
+	+	141	71
+
+> /tmp/tutorRUM7ob
+	*	1532341388	0
+	"	100	0
+	.	94	67
+	+	94	67
+
+> /tmp/tutorWDPORT
+	*	1532341260	0
+	"	65	5
+
+> /tmp/tutori0Cb2m
+	*	1532341248	0
+	"	66	0
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1532340920	0
+	"	6	22
+
+> /tmp/tutor1YywoS
+	*	1514368235	0
+	"	625	0
+	^	469	89
+	.	576	0
+	+	94	67
+	+	117	40
+	+	139	87
+	+	141	70
+	+	216	68
+	+	235	83
+	+	303	11
+	+	313	0
+	+	303	39
+	+	323	0
+	+	324	0
+	+	353	100
+	+	353	0
+	+	353	100
+	+	353	0
+	+	351	0
+	+	351	100
+	+	400	0
+	+	402	0
+	+	403	0
+	+	399	0
+	+	403	0
+	+	402	0
+	+	403	0
+	+	402	0
+	+	401	0
+	+	418	109
+	+	443	101
+	+	443	0
+	+	443	99
+	+	469	87
+	+	576	0
+
+> /tmp/tutorebGr2G
+	*	1514363875	0
+	"	173	0
+	^	141	71
+	.	141	70
+	+	94	63
+	+	117	85
+	+	139	87
+	+	141	70
+
+> ~/Projects/Forms/tutor
+	*	1514363741	0
+	"	1	0
+
+> /tmp/tutor46pDyc
+	*	1514363677	0
+	"	176	29
+	^	141	71
+	.	141	70
+	+	94	52
+	+	117	87
+	+	139	87
+	+	141	70
+
+> /tmp/tutorlkOhzG
+	*	1514362853	0
+	"	63	56
+
+> /tmp/cmQuta_code.js
+	*	1514276017	0
+	"	206	0
+
+> ~/Projects/Forms/.git/COMMIT_EDITMSG
+	*	1513692063	0
+	"	2	0
+	^	1	2
+	.	1	2
+	+	72	10
+	+	1	0
+	+	3	0
+	+	4	0
+	+	2	24
+	+	2	0
+	+	1	2
+	m	1	0
+
+> ~/Projects/bot/.git/COMMIT_EDITMSG
+	*	1511941262	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	2	24
+	+	1	2
+	+	2	0
+	+	7	70
+	+	8	30
+	+	1	1
+
+> ~/Projects/git_tutorial/work/hello/.git/COMMIT_EDITMSG
+	*	1510234984	0
+	"	2	1
+	^	2	2
+	.	2	2
+	+	1	10
+	+	1	13
+	+	1	0
+	+	3	0
+	+	1	0
+	+	3	0
+	+	1	12
+	+	2	2

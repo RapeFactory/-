@@ -1,0 +1,35 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = Alexandr Makeev
+	email = ssh11ssh@gmail.com
+	signingkey = 867A1C7D5385E3BF
+[gui]
+	recentrepo = C:/Users/makeev/Projects/Forms
+[core]
+	autocrlf = true
+	safecrlf = false
+	longpaths = true
+	quotepath = false
+	editor = code --wait
+	excludesfile = C:\\Users\\makeev\\Documents\\gitignore_global.txt
+[diff]
+	tool = default-difftool
+[difftool "default-difftool"]
+	cmd = code --wait --diff $LOCAL $REMOTE
+[alias]
+	hist = log --graph --pretty=format:'%C(yellow)%h%  %C(cyan)%ad%Creset | %s %C(bold magenta)%d %C(dim green)[%an]' --abbrev-commit --date=short
+	type = cat-file -t
+	dump = cat-file -p
+	tree = ls-tree -r
+[credential]
+	helper = wincred
+[winUpdater]
+	recentlySeenVersion = 2.18.0.windows.1
+[commit]
+	gpgsign = true
+[gpg]
+	program = C:\\Program Files (x86)\\GnuPG\\bin\\gpg.exe
