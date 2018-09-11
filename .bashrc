@@ -1,5 +1,5 @@
-alias gs='git status '
-alias gsb='git status -sb '
+alias gsa='git status '
+alias gs='git status -sb '
 alias go='git checkout '
 alias ga='git add '
 alias gap='git add -p '
